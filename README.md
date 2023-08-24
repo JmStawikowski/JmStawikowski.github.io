@@ -1,5 +1,6 @@
 # JmStawikowski.github.io
-![image](https://github.com/JmStawikowski/JmStawikowski.github.io/assets/3303993/1435d152-3829-46f1-a51c-1f70188f0548)
+![jm stawikowski2](https://github.com/JmStawikowski/JmStawikowski.github.io/assets/3303993/84cffe75-4244-4160-9dea-cb905c603359)
+
 
 - Jean-Marie Stawikowski
 - Software Innovation Architect
