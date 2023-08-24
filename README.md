@@ -1,4 +1,6 @@
 # JmStawikowski.github.io
+![image](https://github.com/JmStawikowski/JmStawikowski.github.io/assets/3303993/1435d152-3829-46f1-a51c-1f70188f0548)
+
 - Jean-Marie Stawikowski
 - Software Innovation Architect
 - Profil LinkedIn : https://www.linkedin.com/in/stawikowski/
