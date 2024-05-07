@@ -15,6 +15,7 @@ Compétences
 - Software Anticipation and Innovation
 - Software Developer and Architect
 - Software Inventions and Patents
+- Edge for industrial automation - Docker, Portainer.io, Node-RED, MQTT, Margo, IT/OT convergence
 - Azure IoT Edge, Microsoft IoT Central, Docker, Azure IoT Plug and Play
 - Digital Twins Definition Language (DTDL), Node-RED
 - IoT, IIoT, IT/OT Convergence, Web 2.0, Web Services, WebSocket
@@ -25,6 +26,42 @@ Compétences
 - Object-Oriented Programming, Microsoft .NET, Java, Node.js
 - Web Components (Polymer, Angular Material), Electron, Visual Studio Code
 - Programming Languages (C, C++, C#, Objective-C, Java, JavaScript, Node.js, Python, Ada, Lisp, Smalltalk, Prolog, Intel Pascal 86, Intel 8085 assembly...)
+- 
+- Margo -Edge for industrial automation - https://margo.org/
+- IoT Edge Computing
+- Node-RED (A visual tool for wiring the Internet of Things) - https://nodered.org
+- Docker - https://www.docker.com
+- Portainer - https://portainer.io
+- Schneider Electric Box IT-OT
+- Node-RED, nodered, node.js, nodejs, IoT, IIoT, REST, JSON, electron
+- EcoStruxure: Innovation At Every Level
+- Electron - http://electron.atom.io
+- Visual Studio Code - https://code.visualstudio.com
+- Node.js - https://nodejs.org
+- IoT (Internet of Things)
+- IIoT (Industrial IoT)
+- IT/OT convergence
+- Web 2.0 & Web Services & WebSocket
+- MQTT (Message Queuing Telemetry Transport) - https://mqtt.org
+- Paho (MQTT Clients) - https://eclipse.org/paho
+- Mosquitto (MQTT Broker) - https://mosquitto.org
+- REST (REpresentational State Transfer)
+- JSON (JavaScript Object Notation)
+- SWAGGER - https://swagger.io
+- SOAP (Simple Object Access Protocol)
+- WSDL (Web Services Description Language)
+- OData (Open Data Protocol)
+- SOA (Service-oriented architecture)
+- OPC Unified Architecture (UA) - OPC Foundation
+- M2M (Machine to machine)
+- RIA (Rich Internet Applications)
+- SaaS (Software as a Service)
+- PaaS (Platform as a service)
+- Cloud computing
+- Microsoft Azure
+- Object-Oriented Programming
+- Microsoft .NET / Java
+- Chromebook (Google Chrome OS)
 
 Expérience
 -----------
