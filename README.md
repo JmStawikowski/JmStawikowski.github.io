@@ -15,7 +15,7 @@ Compétences
 - Software Anticipation and Innovation
 - Software Developer and Architect
 - Software Inventions and Patents
-- Edge for industrial automation - Docker, Portainer.io, Node-RED, MQTT, Margo, IT/OT convergence
+- Edge for industrial automation - Docker, Portainer.io, Node-RED, MQTT, Margo, IT/OT convergence, WebAssembly
 - Azure IoT Edge, Microsoft IoT Central, Docker, Azure IoT Plug and Play
 - Digital Twins Definition Language (DTDL), Node-RED
 - IoT, IIoT, IT/OT Convergence, Web 2.0, Web Services, WebSocket
@@ -26,8 +26,11 @@ Compétences
 - Object-Oriented Programming, Microsoft .NET, Java, Node.js
 - Web Components (Polymer, Angular Material), Electron, Visual Studio Code
 - Programming Languages (C, C++, C#, Objective-C, Java, JavaScript, Node.js, Python, Ada, Lisp, Smalltalk, Prolog, Intel Pascal 86, Intel 8085 assembly...)
-- 
+
+Compétences - Détails
+---------------------
 - Margo -Edge for industrial automation - https://margo.org/
+- WebAssembly - https://webassembly.org/
 - IoT Edge Computing
 - Node-RED (A visual tool for wiring the Internet of Things) - https://nodered.org
 - Docker - https://www.docker.com
