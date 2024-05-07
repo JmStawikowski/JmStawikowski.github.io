@@ -50,20 +50,23 @@ Expérience
 
 Réalisations de Brevets
 -----------------------
-1. System and method for sharing data stored in a database
+1. Service deployment in a cluster of I/O devices
+   - [https://patents.google.com/patent/US11157434B2](https://patents.google.com/patent/US11157434B2)
+
+2. System and method for sharing data stored in a database
    - Brevet US9628578 B2, délivré le 8 juin 2011
    - Brevet EU WO2012168319 (A1), délivré le 8 juin 2011
 
-2. Silverlight: GUI based on the XAML language
+3. Silverlight: GUI based on the XAML language
    - Brevet EU EP2104035, délivré le 17 mars 2008
 
-3. Automation equipment having an instant messaging communication capability enabling its remote real-time command and control via a third party connected to an instant messaging server
+4. Automation equipment having an instant messaging communication capability enabling its remote real-time command and control via a third party connected to an instant messaging server
    - Brevet EU FR2835673, délivré le 8 août 2003
 
-4. Web Services: Communication system for automation equipment based on the WSDL language
+5. Web Services: Communication system for automation equipment based on the WSDL language
    - Brevet US US7159007 (B2), délivré le 31 août 2000
 
-5. Web Services: Communication system of an automation equipment based on the soap protocol
+6. Web Services: Communication system of an automation equipment based on the soap protocol
    - Brevet US US7366752 (B2), délivré le 31 août 2000
 
 Références
